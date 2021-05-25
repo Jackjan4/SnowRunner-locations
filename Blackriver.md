@@ -2,6 +2,6 @@
 Town Storage: Metal Beams
 Log Station: Logs
 Farm:
-Warehouse:
+Warehouse: Metal Beams, Bricks, Concrete Blocks, Service Spare Parts
 Factory:
-Lumer Mill: Wooden Planks
+Lumber Mill: Wooden Planks
