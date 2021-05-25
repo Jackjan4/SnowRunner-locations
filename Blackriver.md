@@ -1,6 +1,6 @@
 
 Town Storage: Metal Beams
-Log Station: Logs
+Log Station: Long Logs, Medium Logs
 Farm:
 Warehouse: Metal Beams, Bricks, Concrete Blocks, Service Spare Parts
 Factory:
